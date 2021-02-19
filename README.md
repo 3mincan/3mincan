@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 
 <!--
 **3mincan/3mincan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
